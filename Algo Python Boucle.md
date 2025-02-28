@@ -303,11 +303,11 @@ for x in y:
 
 ```py
 person = {
-    'first_name': 'Asabeneh',
-    'last_name': 'Yetayeh',
-    'age': 250,
-    'country': 'Finland',
-    'is_marred': True,
+    'first_name': 'Douaa',
+    'last_name': 'Ezzaher',
+    'age': 20,
+    'country': 'Morocco',
+    'is_marred': False,
     'skills': ['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address': {
         'street': 'Space street',
